@@ -1,0 +1,321 @@
+﻿ID,WorkPath,Statement
+1,Machine learning,Saya dapat melakukan klasifikasi menggunakan support vector machines.
+2,Data Analis,Saya menganalisis kumpulan data yang besar untuk menemukan wawasan dan tren yang bermakna
+3,Apoteker,Saya memastikan pemberian obat yang aman dan akurat kepada pasien
+4,Bartender,Saya membuat koktail yang unik dan lezat yang memuaskan selera pelanggan
+5,Arsitek,Saya merancang ruang yang inovatif dan fungsional yang memenuhi kebutuhan dan aspirasi klien
+6,Koki,"Saya menciptakan mahakarya kuliner dengan memadukan rasa, tekstur, dan bahan"
+7,Copy Writter,Saya membuat konten tertulis yang persuasif dan menarik yang menarik perhatian audiens target
+8,Desainer Grafis,Saya membuat desain yang memukau secara visual dan berdampak yang secara efektif mengkomunikasikan pesan dan memikat audiens
+9,Desainer Interior,"Saya menciptakan ruang interior yang fungsional dan menarik secara visual yang mencerminkan selera, kebutuhan, dan gaya hidup klien"
+10,Editor Film,Saya mengedit dan menyatukan rekaman dengan cermat untuk menciptakan narasi visual yang kohesif dan menarik
+11,Insinyur Sipil,"Saya merancang dan mengawasi pembangunan proyek infrastruktur, memastikan keamanan, fungsionalitas, dan keberlanjutannya"
+12,Fotografer,Saya menangkap dan menciptakan cerita visual yang menarik melalui fotografi saya
+13,Dosen,Saya memberikan pengetahuan dan menginspirasi siswa melalui kuliah yang menarik dan informatif
+14,Konsultan IT,Saya memberikan saran dan solusi ahli kepada klien tentang berbagai masalah dan tantangan terkait TI
+15,Pengacara,Saya memberikan nasihat hukum dan perwakilan kepada klien dalam berbagai masalah hukum
+16,Pemasaran Digital,Saya mengembangkan dan menerapkan strategi pemasaran digital untuk meningkatkan visibilitas online dan kesadaran merek
+17,Administrator Media Sosial,Saya mengelola dan mengkurasi akun media sosial untuk meningkatkan kehadiran dan keterlibatan merek
+18,Pedagang,"Saya mengelola dan mengoperasikan bisnis pedagang, menjual produk atau layanan kepada pelanggan"
+19,Penari,Saya mengekspresikan diri saya melalui gerakan dan menciptakan pertunjukan yang menawan
+20,Aktor,Saya menghidupkan karakter dan membenamkan diri dalam emosi dan pengalaman mereka
+21,Dokter Gigi,"Saya memberikan perawatan gigi yang komprehensif kepada pasien, dengan fokus pada kesehatan dan kebersihan mulut"
+22,Montir Mobil,Saya mendiagnosis dan memperbaiki masalah otomotif untuk memastikan kinerja kendaraan yang optimal
+23,Dokter Hewan,Saya memberikan perawatan hewan yang penuh kasih dan komprehensif untuk hewan dari semua ukuran dan spesies
+24,Analis Saham,Saya menganalisis dan mengevaluasi saham dan sekuritas untuk memberikan rekomendasi investasi
+25,Pilot,Saya mengoperasikan dan menavigasi pesawat untuk memastikan penerbangan yang aman dan efisien
+26,Teknisi Pesawat Terbang,Saya membantu dalam pengoperasian dan pemantauan sistem pesawat selama penerbangan
+27,Pustakawan,Saya mengelola sumber daya perpustakaan dan memfasilitasi akses informasi bagi pelanggan perpustakaan
+28,Pemimpin Redaksi,Saya mengawasi dan memimpin tim editorial untuk memastikan produksi konten berkualitas tinggi
+29,Teller Bank,Saya membantu pelanggan dengan transaksi dan pertanyaan perbankan mereka
+30,Reporter,Saya mengumpulkan dan menyelidiki berita dari berbagai sumber
+31,Jurnalis,Saya mengumpulkan dan menyelidiki berita dari berbagai sumber
+32,Tukang Kayu,Saya berspesialisasi dalam proyek pertukangan dan konstruksi
+33,Manajer Penjualan, Saya dapat memimpin tim penjualan dan mendorong pertumbuhan pendapatan
+34,Penasihat Keuangan, Saya dapat memberikan panduan keuangan dan merekomendasikan opsi investasi
+35,Koordinator Proyek, Saya dapat membantu dalam perencanaan dan pelaksanaan proyek
+36,Insinyur Perangkat Lunak, Saya dapat mengembangkan aplikasi perangkat lunak menggunakan bahasa pemrograman
+37,Koordinator Pemasaran, Saya dapat mengimplementasikan kampanye pemasaran dan menganalisis tren pasar
+38,Asisten Administrasi, Saya dapat memberikan dukungan administratif dan mengatur jadwal
+39,Asisten Eksekutif, Saya dapat mendukung eksekutif tingkat tinggi dan menangani informasi rahasia
+40,Asisten Penelitian, Saya dapat membantu dalam melakukan penelitian dan menganalisis temuan
+41,Penulis Teknis, Saya dapat membuat dokumentasi teknis yang jelas dan ringkas
+42,Ilmuwan Data, Saya dapat menganalisis kumpulan data yang kompleks dan mengembangkan model prediktif
+43,Manajer Operasional, Saya dapat mengawasi operasi harian dan mengoptimalkan proses
+44,Manajer Pemasokan Barang, Saya dapat mengoordinasikan arus barang dan jasa serta mengelola inventaris
+45,Manajer Penjaminan Pelangan, Saya dapat membangun hubungan yang kuat dengan pelanggan dan memastikan kepuasan mereka
+46,Analis Jaminan Kualitas, Saya dapat menguji aplikasi perangkat lunak dan memastikan kualitas produk
+47,Administrator Sistem, Saya dapat mengelola dan memelihara sistem dan jaringan komputer
+48,Administrator Basis Data, Saya dapat merancang dan mengelola basis data
+49,Insinyur Jaringan, Saya dapat merancang dan memelihara jaringan komputer
+50,Desainer Antarmuka Pengguna, Saya dapat membuat antarmuka yang ramah pengguna dan menarik secara visual
+51,Pembuat Content,Saya dapat menghasilkan konten yang menarik dan informatif
+52,Brand Manager, Saya dapat mengembangkan dan mempertahankan identitas dan reputasi merek
+53,Koordinator Acara, Saya dapat merencanakan dan mengatur acara
+54,Koordinator SDM, Saya dapat membantu dalam fungsi sumber daya manusia
+55,Rekruter, Saya dapat mengidentifikasi dan merekrut talenta terbaik
+56,Analisis Riset Pasar,Saya dapat melakukan riset pasar dan menganalisis data
+57,Pekerja Sosial, Saya dapat mendukung individu dan komunitas yang membutuhkan
+58,Pelatih Pribadi, Saya dapat membuat program kebugaran yang disesuaikan dan memberikan pelatihan
+59,Penjamin Asuransi, Saya dapat menilai risiko dan menentukan cakupan asuransi
+60,Perencana Keuangan, Saya dapat membuat rencana keuangan yang dipersonalisasi untuk individu dan bisnis
+61,Direktur Seni, Saya dapat mengawasi aspek visual dari proyek-proyek kreatif
+62,Seniman Multimedia, Saya dapat membuat media visual dan interaktif
+63,Desainer Industri, Saya dapat mendesain produk yang fungsional dan menyenangkan secara estetika
+64,Insinyur Arsitektur, Saya dapat merancang dan menganalisis struktur
+65,Insinyur Mesin, Saya dapat merancang dan mengembangkan sistem dan perangkat mekanis
+66,Insinyur Dirgantara, Saya dapat merancang dan menguji pesawat terbang dan pesawat ruang angkasa
+67,Ilmuwan Lingkungan, Saya dapat mempelajari dan melindungi lingkungan
+68,Ilmuwan Geologi, Saya dapat mempelajari struktur dan sejarah bumi
+69,Insinyur Geoteknik, Saya dapat menganalisis sifat tanah dan batuan untuk proyek-proyek konstruksi
+70,Insinyur Pertanian, Saya dapat mengembangkan dan meningkatkan peralatan dan proses pertanian
+71,Ilmuwan Pangan, Saya dapat mempelajari dan mengembangkan produk dan proses makanan
+72,Kimiawan, Saya dapat mempelajari dan menganalisis zat kimia
+73,Ilmuwan Biologi, Saya dapat mempelajari organisme hidup dan interaksinya
+74,Ilmuwan Hewan, Saya dapat mempelajari hewan dan perilaku mereka
+75,Pembantu Dokter Hewan, Saya dapat membantu dokter hewan dalam merawat hewan
+76,Bankir Investasi,Saya dapat memberikan nasihat keuangan dan melakukan transaksi investasi
+77,Analisis Operasional, Saya dapat menganalisis data operasional dan mengidentifikasi area yang perlu ditingkatkan
+78,Manajer Risiko, Saya dapat mengidentifikasi dan mengelola potensi risiko bagi organisasi
+79,Peneliti Pengalaman Pengguna, Saya dapat melakukan riset pengguna untuk meningkatkan pengalaman pengguna
+80,Spesialis SEO, Saya dapat mengoptimalkan situs web untuk meningkatkan peringkat mesin pencari
+81,Manajer Pemasaran Konten, Saya dapat mengembangkan dan menerapkan strategi pemasaran konten
+82,Manajer Layanan Pelanggan, Saya dapat mengawasi operasi layanan pelanggan dan memastikan kepuasan pelanggan
+83,Manajer TI, Saya dapat mengelola sistem dan infrastruktur TI untuk sebuah organisasi
+84,Manajer Pengembangan Bisnis, Saya dapat mengidentifikasi peluang pertumbuhan dan mengembangkan kemitraan bisnis
+85,Manajer Produk, Saya dapat mengawasi pengembangan dan peluncuran produk baru
+86,Koordinator Penelitian Klinis, Saya dapat mengkoordinasikan dan mengelola studi penelitian klinis
+87,Praktisi Keperawatan, Saya dapat memberikan asuhan keperawatan tingkat lanjut dan mendiagnosis penyakit
+88,Asisten Dokter, Saya dapat memberikan perawatan medis di bawah pengawasan dokter
+89,Ahli Bedah, Saya dapat melakukan prosedur bedah
+90,Radiolog, Saya dapat menginterpretasikan pencitraan medis untuk mendiagnosis dan mengobati penyakit
+91,Ilmuwan Forensik, Saya dapat menganalisis dan menafsirkan bukti untuk penyelidikan hukum
+92,Petugas Polisi, Saya dapat menegakkan hukum dan menjaga keamanan publik
+93,Pemadam Kebakaran, Saya dapat merespons kebakaran dan keadaan darurat untuk melindungi nyawa dan properti
+94,Pustakawan, Saya dapat mengelola dan menyediakan akses ke sumber daya perpustakaan
+95,Kurator Museum, Saya dapat mengelola dan mengkurasi koleksi museum
+96,Konservator Seni, Saya dapat melestarikan dan merestorasi karya seni
+97,Stilis Mode, Saya dapat membuat dan mengoordinasikan penampilan modis untuk individu atau acara
+98,Kepala Koki, Saya dapat mengawasi operasi dapur dan menciptakan mahakarya kuliner
+99,Asisten Koki, Saya dapat membantu kepala koki dalam persiapan makanan dan manajemen dapur
+100,Ahli Wine, Saya dapat memberikan keahlian dalam pemilihan dan layanan anggur
+101,Analis Bisnis,Saya dapat menganalisis proses bisnis dan merekomendasikan perbaikan
+102,Analis Keuangan, Saya dapat menganalisis data keuangan dan memberikan wawasan untuk pengambilan keputusan
+103,Manajer Sumber Daya Manusia," Saya dapat mengawasi fungsi SDM, termasuk rekrutmen dan hubungan karyawan"
+104,Manajer Pemasaran, Saya dapat mengembangkan dan mengimplementasikan strategi pemasaran untuk mendorong pertumbuhan bisnis
+105,Pengembang Web, Saya dapat membuat dan memelihara situs web menggunakan bahasa pemrograman dan teknologi web
+106,Akuntan, Saya dapat menyiapkan catatan keuangan dan memastikan kepatuhan terhadap peraturan
+107,Perwakilan Layanan Pelanggan, Saya dapat membantu pelanggan dan menyelesaikan pertanyaan atau masalah mereka
+108,Apoteker, Saya dapat memberikan obat dan memberikan saran farmasi
+109,Ilmuwan Penelitian, Saya dapat melakukan penelitian ilmiah dan menganalisis temuan
+110,Perancang Busana, Saya dapat membuat desain pakaian yang inovatif dan bergaya
+111,Psikolog, Saya dapat memberikan terapi dan konseling kepada individu atau kelompok
+112,Penjaga Keamanan, Saya dapat memastikan keselamatan dan keamanan orang dan properti
+113,Penerjemah, Saya dapat menerjemahkan konten tertulis atau lisan antar bahasa
+114,Terapis Fisik, Saya dapat membantu pasien pulih dari cedera atau mengelola kondisi fisik
+115,Agen Real Estat," Saya dapat membantu klien dalam membeli, menjual, atau menyewa properti"
+116,Awak Kabin Maskapai Penerbangan, Saya dapat menyediakan layanan dalam penerbangan dan memastikan keamanan dan kenyamanan penumpang
+117,Insinyur Biomedis, Saya dapat merancang dan mengembangkan peralatan dan perangkat medis
+118,Ekonom, Saya dapat menganalisis data ekonomi dan memberikan wawasan untuk bisnis atau pemerintah
+119,Instruktur Kebugaran, Saya dapat memimpin kelas kebugaran dan membimbing individu dalam mencapai tujuan kebugaran mereka
+120,Penata Rias, Saya dapat merias wajah untuk berbagai acara atau produksi
+121,Terapis Okupasi, Saya dapat membantu pasien meningkatkan keterampilan hidup sehari-hari dan mencapai kemandirian
+122,Asisten Dokter Hewan, Saya dapat membantu dokter hewan dalam memberikan perawatan untuk hewan
+123,Aktuaris, Saya dapat menilai dan mengelola risiko keuangan untuk perusahaan asuransi atau organisasi lain
+124,Penguji Perangkat Lunak, Saya dapat menguji aplikasi perangkat lunak untuk mengidentifikasi dan melaporkan bug atau masalah
+125,Insinyur Data," Saya dapat merancang, mengembangkan, dan memelihara sistem untuk mengelola dan menganalisis kumpulan data yang besar"
+126,Pengembang Aplikasi Seluler, Saya dapat membuat aplikasi seluler untuk berbagai platform
+127,Pengawas Keuangan, Saya dapat mengelola dan mengawasi operasi dan pelaporan keuangan
+128,Brand Ambassador, Saya dapat mewakili dan mempromosikan merek untuk meningkatkan kesadaran dan keterlibatan pelanggan
+129,Terapis Seni, Saya dapat menggunakan seni sebagai alat terapi untuk membantu individu mengekspresikan dan mengeksplorasi emosi
+130,Analis Pasar, Saya dapat menganalisis tren pasar dan perilaku konsumen untuk mendukung strategi pemasaran
+131,Koordinator Logistik, Saya dapat mengkoordinasikan dan mengelola pergerakan barang atau material dalam rantai pasokan
+132,Ilustrator Digital," Saya dapat membuat ilustrasi digital untuk berbagai tujuan, seperti iklan atau mendongeng"
+133,Konsultan Keberlanjutan, Saya dapat memberikan panduan dan rekomendasi kepada organisasi tentang praktik-praktik berkelanjutan
+134,Administrator Jaringan, Saya dapat mengelola dan memelihara jaringan komputer untuk organisasi
+135,Spesialis Dukungan TI, Saya dapat memberikan dukungan teknis dan bantuan kepada pengguna sistem komputer atau perangkat lunak
+136,Pedagang Mata Uang Kripto, Saya dapat membeli dan menjual mata uang kripto dan menganalisis tren pasar
+137,Manajer Acara," Saya dapat merencanakan dan mengatur acara, mulai dari konsep hingga pelaksanaan"
+138,Pengacara Paten, Saya dapat membantu klien dalam mengamankan dan melindungi hak kekayaan intelektual mereka
+139,Sutradara Film, Saya dapat mengarahkan aspek kreatif dari produksi film
+140,Desainer Game, Saya dapat merancang dan membuat konsep dan mekanisme untuk video game
+141,Perwakilan Penjualan Farmasi, Saya dapat mempromosikan dan menjual produk farmasi kepada para profesional kesehatan
+142,Arsitek Lanskap," Saya dapat merancang dan merencanakan ruang luar ruangan, seperti taman atau kebun"
+143,Analis Investasi, Saya dapat menganalisis peluang investasi dan memberikan rekomendasi
+144,Desainer Pengalaman Pengguna, Saya dapat menciptakan pengalaman yang intuitif dan ramah pengguna untuk produk atau layanan digital
+145,Manajer E-commerce, Saya dapat mengawasi dan mengoptimalkan penjualan dan operasi online untuk bisnis e-commerce
+146,Spesialis Rekrutmen, Saya dapat mengidentifikasi dan menarik talenta terbaik untuk organisasi
+147,Perencana Media, Saya dapat merencanakan dan mengoordinasikan kampanye iklan di berbagai saluran media
+148,Petugas Kepatuhan, Saya dapat memastikan kepatuhan terhadap peraturan dan praktik-praktik etis dalam suatu organisasi
+149,Ahli Biokimia, Saya dapat mempelajari dan menganalisis proses dan zat kimia dalam organisme hidup
+150,Ahli Genetika, Saya dapat mempelajari dan meneliti gen dan variasi genetik
+151,Insinyur Dukungan Teknis,Saya dapat memberikan bantuan dan dukungan teknis untuk produk perangkat keras atau perangkat lunak
+152,Konsultan Bisnis, Saya dapat memberikan saran dan panduan ahli kepada bisnis untuk meningkatkan operasi atau strategi
+153,Perencana Perkotaan, Saya dapat merancang dan merencanakan area perkotaan untuk mengoptimalkan fungsionalitas dan kualitas hidup
+154,Perencana Keuangan, Saya dapat mengembangkan rencana keuangan yang dipersonalisasi untuk individu atau bisnis
+155,Agen Asuransi, Saya dapat menyediakan produk asuransi dan saran untuk individu atau bisnis
+156,Peretas Etis, Saya dapat menilai dan mengidentifikasi kerentanan dalam sistem komputer untuk meningkatkan keamanan
+157,Insinyur Robotika," Saya dapat merancang, mengembangkan, dan memprogram robot untuk berbagai aplikasi"
+158,Pengembang Game Seluler, Saya dapat membuat dan mengembangkan game seluler untuk berbagai platform
+159,Desainer Produk, Saya dapat membuat konsep dan mendesain produk untuk keperluan manufaktur atau konsumen
+160,Analis Keamanan Siber, Saya dapat menganalisis dan mengatasi ancaman keamanan siber untuk melindungi sistem dan data digital
+161,Agen Bakat," Saya dapat mewakili dan mengelola karier artis, artis, atau atlet"
+162,Manajer Riset Pasar, Saya dapat memimpin inisiatif riset pasar dan menganalisis tren pasar dan perilaku konsumen
+163,Manajer Keberlanjutan, Saya dapat mengembangkan dan menerapkan strategi keberlanjutan untuk organisasi
+164,Pengacara Kekayaan Intelektual, Saya dapat memberikan nasihat hukum dan perlindungan untuk hak kekayaan intelektual
+165,Pengacara Hak Sipil, Saya dapat mengadvokasi dan membela hak-hak sipil dan kebebasan
+166,Konsultan Imigrasi, Saya dapat memberikan bantuan dan panduan kepada individu atau bisnis yang menavigasi proses imigrasi
+167,Penguji Video Game," Saya dapat menguji video game untuk mengetahui adanya bug, gangguan, dan masalah kegunaan"
+168,Bankir Investasi, Saya dapat memberikan nasihat keuangan dan memfasilitasi transaksi investasi untuk klien
+169,Psikolog Forensik, Saya dapat menerapkan psikologi dalam konteks peradilan hukum dan kriminal
+170,Produser Musik, Saya dapat mengawasi dan mengelola produksi rekaman musik
+171,Manajer Proyek TI," Saya dapat memimpin dan mengelola proyek-proyek TI, memastikan implementasi yang sukses"
+172,Insinyur Proses, Saya dapat mengoptimalkan dan meningkatkan proses industri untuk meningkatkan efisiensi dan kualitas
+173,Analis Rantai Pasokan, Saya dapat menganalisis data rantai pasokan untuk mengoptimalkan proses dan mengurangi biaya
+174,Pemeriksa Paten, Saya dapat meninjau aplikasi paten dan menilai validitas dan keunikannya
+175,Peneliti Farmasi, Saya dapat melakukan penelitian tentang produk farmasi dan pengembangan obat
+176,Insinyur Lingkungan, Saya dapat merancang dan mengimplementasikan solusi untuk tantangan lingkungan
+177,Manajer Hubungan Masyarakat, Saya dapat mengelola dan meningkatkan citra dan reputasi publik individu atau organisasi
+178,Desainer Antarmuka Pengguna, Saya dapat merancang antarmuka yang memfasilitasi interaksi pengguna dengan produk atau layanan digital
+179,Analis Basis Data, Saya dapat menganalisis dan menginterpretasikan data yang disimpan dalam basis data untuk wawasan dan pengambilan keputusan
+180,Analis Intelijen Bisnis, Saya dapat menganalisis data bisnis yang kompleks untuk memberikan wawasan dan rekomendasi strategis
+181,Analis Risiko Keuangan, Saya dapat menilai dan memitigasi risiko keuangan untuk organisasi
+182,Pembeli Fashion, Saya dapat memilih dan membeli produk fesyen untuk bisnis ritel atau e-commerce
+183,Ahli Konservasi, Saya dapat melindungi dan melestarikan sumber daya alam dan ekosistem
+184,Ilustrator Teknis, Saya dapat membuat representasi visual dari konsep teknis atau produk
+185,Manajer Pengalaman Pelanggan, Saya dapat mengawasi dan meningkatkan pengalaman pelanggan secara keseluruhan dengan merek atau produk
+186,Analis Data, Saya dapat menganalisis dan menginterpretasikan data untuk mengekstrak wawasan yang bermakna dan mendukung pengambilan keputusan
+187,Terapis Seni, Saya dapat menggunakan seni sebagai media terapi untuk mendukung kesejahteraan emosional dan mental individu
+188,Desainer Kemasan, Saya dapat membuat desain kemasan yang inovatif dan menarik secara visual untuk produk
+189,Psikolog Klinis," Saya dapat menilai, mendiagnosis, dan mengobati gangguan kesehatan mental dan masalah psikologis"
+190,Teknisi Robotika," Saya dapat memelihara, memecahkan masalah, dan memperbaiki sistem dan peralatan robotik"
+191,Analis Sistem Komputer, Saya dapat mengevaluasi dan mengoptimalkan sistem dan proses komputer untuk organisasi
+192,Spesialis Sistem Informasi Geografis, Saya dapat menganalisis dan memanipulasi data geografis menggunakan teknologi Sistem Informasi Geografis
+193,Insinyur Audio," Saya dapat merekam, mencampur, dan menguasai audio untuk berbagai aplikasi, seperti musik atau film"
+194,Pedagang Keuangan," Saya dapat membeli dan menjual instrumen keuangan, seperti saham atau komoditas, untuk menghasilkan keuntungan"
+195,Sekretaris Hukum, Saya dapat memberikan dukungan administratif dan klerikal kepada para profesional hukum
+196,Analis Mata Uang Kripto, Saya dapat menganalisis dan mengevaluasi mata uang kripto dan tren pasarnya
+197,Peretas Etis, Saya dapat menilai dan mengidentifikasi kerentanan dalam sistem komputer untuk meningkatkan keamanan
+198,Operator Mesin, Saya dapat mengoperasikan dan memelihara mesin di lingkungan manufaktur atau produksi
+199,Petugas Pinjaman, Saya dapat mengevaluasi aplikasi pinjaman dan membantu klien dalam mendapatkan pinjaman
+200,Penyelidik Asuransi, Saya dapat menyelidiki klaim asuransi untuk menentukan validitasnya dan menyelesaikan masalah apa pun
+201,Perencana Acara,Saya unggul dalam mengorganisir dan mengkoordinasikan acara-acara yang berkesan.
+202,Analis Investasi, Saya memiliki kemampuan analitis yang kuat dan memberikan wawasan yang berharga tentang peluang investasi.
+203,Pelatih Bisnis, Saya membantu individu dan tim mencapai potensi penuh mereka dan mencapai tujuan bisnis mereka.
+204,Manajer Proyek Teknis, Saya mengawasi penyelesaian proyek teknis yang kompleks.
+205,Petugas Keberlanjutan, Saya mempromosikan praktik-praktik berkelanjutan dan mengembangkan strategi untuk pelestarian lingkungan.
+206,Arsitek Data, Saya merancang dan mengoptimalkan struktur dan sistem data untuk manajemen data yang efisien.
+207,Pekerja Sosial, Saya bersemangat untuk membantu individu dan masyarakat mengatasi tantangan sosial dan meningkatkan kesejahteraan mereka.
+208,Pembeli Media, Saya merencanakan dan membeli ruang iklan secara strategis untuk memaksimalkan jangkauan dan dampak.
+209,Ahli Strategi Pasar, Saya mengembangkan strategi pemasaran yang komprehensif untuk mendorong pertumbuhan bisnis dan penetrasi pasar.
+210,Analis GIS, Saya menganalisis data geografis dan membuat peta interaktif untuk berbagai aplikasi.
+211,Konsultan Keamanan Siber, Saya berspesialisasi dalam menilai dan meningkatkan langkah-langkah keamanan siber untuk melindungi organisasi dari ancaman siber.
+212,Insinyur Industri, Saya mengoptimalkan proses produksi dan meningkatkan efisiensi dalam pengaturan industri.
+213,Koordinator Uji Klinis, Saya mengawasi koordinasi dan administrasi uji klinis untuk memastikan kelancaran operasi dan kepatuhan.
+214,Dekorator Interior, Saya menciptakan ruang interior yang menarik secara visual dan fungsional yang mencerminkan preferensi dan kebutuhan klien.
+215,Insinyur Kimia, Saya menerapkan keahlian saya dalam bidang kimia dan prinsip-prinsip teknik untuk merancang dan mengoptimalkan proses kimia.
+216,Ahli Strategi Konten, Saya mengembangkan strategi konten yang menarik untuk melibatkan audiens target dan mendorong kesadaran merek.
+217,Analis SEO, Saya mengoptimalkan situs web dan konten untuk meningkatkan peringkat mesin pencari dan meningkatkan lalu lintas organik.
+218,Konsultan Keuangan, Saya memberikan nasihat keuangan ahli dan mengembangkan strategi yang dipersonalisasi untuk membantu klien mencapai tujuan keuangan mereka.
+219,Analis Risiko, Saya menilai dan memitigasi risiko untuk melindungi organisasi dari potensi kerugian finansial dan operasional.
+220,Pengembang Perangkat Seluler, Saya berspesialisasi dalam membuat aplikasi seluler yang inovatif untuk berbagai platform dan perangkat.
+221,Koordinator Operasi, Saya merampingkan proses operasional dan memastikan kelancaran operasi sehari-hari dalam organisasi.
+222,Agen Paten, Saya membantu para penemu dan perusahaan dalam mengajukan permohonan paten dan melindungi kekayaan intelektual mereka.
+223,Desainer Perkotaan," Saya merancang dan merencanakan ruang perkotaan yang estetis, fungsional, dan berkelanjutan."
+224,Spesialis Akuisisi Bakat, Saya mengidentifikasi dan menarik talenta terbaik ke dalam organisasi melalui strategi perekrutan yang efektif.
+225,Desainer UI, Saya membuat antarmuka yang menarik secara visual dan ramah pengguna untuk situs web dan aplikasi.
+226,Analis Rantai Pasokan, Saya menganalisis dan mengoptimalkan proses rantai pasokan untuk meningkatkan efisiensi dan mengurangi biaya.
+227,Auditor TI, Saya mengevaluasi dan menilai sistem dan kontrol TI untuk memastikan kepatuhan dan mengurangi risiko.
+228,Analis Bisnis, Saya menganalisis proses dan persyaratan bisnis untuk merekomendasikan perbaikan dan mendorong kesuksesan organisasi.
+229,Inspektur Kontrol Kualitas, Saya memastikan bahwa produk dan layanan memenuhi standar kualitas melalui inspeksi dan pengujian menyeluruh.
+230,Petugas Entri Data, Saya secara akurat memasukkan dan mengelola data dalam berbagai sistem dan basis data.
+231,Konsultan Pajak, Saya memberikan nasihat ahli tentang masalah pajak dan membantu klien mengoptimalkan posisi pajak mereka.
+232,Analis Proses Bisnis, Saya menganalisis dan meningkatkan proses bisnis untuk meningkatkan efisiensi dan produktivitas.
+233,Spesialis Dukungan Pelanggan, Saya memberikan layanan pelanggan yang sangat baik dan menyelesaikan pertanyaan dan masalah untuk memastikan kepuasan pelanggan.
+234,Analis Pasar," Saya melakukan riset dan analisis pasar untuk mengidentifikasi tren, peluang, dan preferensi konsumen."
+235,Teknisi Lingkungan, Saya memantau dan menilai kondisi lingkungan dan mendukung upaya pelestarian lingkungan.
+236,Direktur Kreatif, Saya memimpin tim kreatif dan mengawasi pengembangan kampanye pemasaran yang menarik dan berdampak.
+237,Ahli Strategi Digital, Saya mengembangkan strategi digital yang komprehensif untuk meningkatkan kehadiran online dan mendorong pertumbuhan bisnis.
+238,Manajer Media Sosial, Saya mengelola dan mengoptimalkan platform media sosial untuk membangun kesadaran merek dan melibatkan audiens target.
+239,Pelatih Kesehatan, Saya memberdayakan individu untuk melakukan perubahan gaya hidup yang positif dan mencapai tujuan kesehatan dan kebugaran mereka.
+240,Teknisi Kedirgantaraan," Saya melakukan tugas-tugas teknis dan memberikan dukungan dalam industri kedirgantaraan, memastikan keselamatan dan efisiensi."
+241,Penasihat Investasi,Saya memberikan saran dan rekomendasi investasi yang dipersonalisasi berdasarkan tujuan keuangan dan toleransi risiko klien.
+242,Desainer Mekanik, Saya merancang dan mengembangkan sistem dan komponen mekanis untuk berbagai aplikasi.
+243,Peneliti Pengguna, Saya melakukan penelitian pengguna untuk memahami perilaku dan preferensi pengguna dan menginformasikan desain dan pengembangan produk.
+244,Terapis Seni, Saya menggunakan teknik terapi seni untuk meningkatkan kesejahteraan emosional dan psikologis.
+245,Analis Pemasaran, Saya menganalisis kampanye dan strategi pemasaran untuk mengukur efektivitasnya dan memberikan wawasan untuk pengoptimalan.
+246,Analis Paten, Saya menganalisis dan menilai dokumen paten serta memberikan wawasan dan rekomendasi untuk hal-hal yang berkaitan dengan paten.
+247,Analis Keberlanjutan, Saya menganalisis dan mengevaluasi inisiatif keberlanjutan dan mengembangkan strategi untuk tanggung jawab lingkungan dan sosial.
+248,Ilustrator Teknis, Saya membuat ilustrasi yang terperinci dan menarik secara visual untuk mengomunikasikan konsep teknis yang kompleks.
+249,Koordinator Penelitian," Saya mengoordinasikan dan mengelola proyek penelitian, memastikan kepatuhan terhadap protokol dan jadwal."
+250,Spesialis Keamanan TI, Saya berspesialisasi dalam mengamankan sistem dan jaringan TI dari potensi ancaman dan kerentanan.
+251,Spesialis Penambangan Data, Saya menggunakan teknik-teknik canggih untuk mengekstrak wawasan dan pola yang berharga dari kumpulan data yang besar.
+252,Analis Keuangan, Saya menganalisis data keuangan dan memberikan wawasan serta rekomendasi untuk mendukung pengambilan keputusan strategis.
+253,Manajer SDM," Saya mengawasi fungsi sumber daya manusia, termasuk perekrutan, hubungan karyawan, dan manajemen kinerja."
+254,Editor Salinan," Saya memastikan konten tertulis benar secara tata bahasa, konsisten, dan bebas dari kesalahan."
+255,Manajer Proyek," Saya mengawasi pelaksanaan proyek, memastikan hasil kerja diselesaikan tepat waktu, sesuai anggaran, dan dengan kualitas yang dibutuhkan."
+256,Analis Operasi, Saya menganalisis proses dan data operasional untuk mengidentifikasi area yang perlu ditingkatkan dan mendorong efisiensi.
+257,Desainer Web, Saya mendesain situs web yang menarik secara visual dan ramah pengguna yang memenuhi kebutuhan dan tujuan klien.
+258,Ilustrator Grafis, Saya membuat ilustrasi dan grafik yang menarik secara visual untuk berbagai media dan tujuan.
+259,Desainer Arsitektur," Saya menciptakan desain arsitektur inovatif yang menyeimbangkan fungsionalitas, estetika, dan keberlanjutan."
+260,Manajer Riset Pasar, Saya merencanakan dan melaksanakan inisiatif riset pasar untuk mengumpulkan wawasan dan memandu strategi bisnis.
+261,Konsultan TI, Saya memberikan saran dan panduan ahli tentang solusi dan strategi TI untuk memenuhi tujuan bisnis.
+262,Spesialis Urusan Regulasi, Saya memastikan kepatuhan terhadap peraturan dan standar dalam industri seperti farmasi dan peralatan medis.
+263,Ahli Strategi Merek, Saya mengembangkan dan melaksanakan strategi untuk membangun dan meningkatkan identitas dan reputasi merek.
+264,Koordinator Media Sosial, Saya mengoordinasikan kampanye dan aktivitas media sosial untuk melibatkan audiens dan meningkatkan visibilitas merek.
+265,Perencana Acara," Saya dengan cermat merencanakan dan melaksanakan acara yang sukses, memastikan setiap detail diperhatikan."
+266,Supervisor Operasional, Saya mengawasi dan mengoordinasikan kegiatan operasional untuk mencapai tujuan organisasi.
+267,Asisten Peneliti," Saya memberikan dukungan dalam proyek penelitian, termasuk pengumpulan data, analisis, dan dokumentasi."
+268,Desainer UI/UX, Saya membuat antarmuka pengguna yang intuitif dan menarik secara visual untuk meningkatkan pengalaman pengguna.
+269,Pemodel Data, Saya merancang dan mengembangkan model data yang secara akurat merepresentasikan data organisasi dan mendukung upaya manajemen data.
+270,Perencana Keuangan, Saya membantu individu dan bisnis mengembangkan rencana keuangan yang komprehensif untuk mencapai tujuan keuangan mereka.
+271,Generalis Sumber Daya Manusia," Saya memberikan dukungan SDM yang komprehensif, termasuk rekrutmen, hubungan karyawan, dan kebijakan SDM."
+272,Penulis Teknis, Saya membuat dokumentasi yang jelas dan ringkas serta materi instruksional untuk produk dan proses teknis.
+273,Spesialis Visualisasi Data, Saya mengubah kumpulan data yang kompleks menjadi representasi visual yang mudah dipahami dan ditafsirkan.
+274,Penulis Konten Web," Saya membuat konten yang menarik dan informatif untuk situs web, blog, dan platform online."
+275,Ilmuwan Lingkungan, Saya melakukan penelitian dan analisis untuk menilai dan mengurangi dampak lingkungan.
+276,Insinyur Geoteknik, Saya menganalisis sifat tanah dan batuan untuk memberikan rekomendasi untuk proyek-proyek teknik.
+277,Insinyur Pertanian, Saya menerapkan prinsip-prinsip teknik untuk meningkatkan praktik dan sistem pertanian.
+278,Teknisi Akuakultur," Saya mendukung dan mengelola operasi akuakultur, memastikan kesehatan dan keberlanjutan organisme air."
+279,Ilmuwan Penelitian," Saya melakukan penelitian ilmiah, mengembangkan hipotesis, dan menganalisis data untuk berkontribusi pada pengetahuan ilmiah."
+280,Ilmuwan Konservasi, Saya mengembangkan dan menerapkan strategi untuk konservasi dan pengelolaan sumber daya alam dan ekosistem.
+281,Ahli Zoologi,"Saya mempelajari perilaku, populasi, dan habitat hewan untuk berkontribusi pada pemahaman kita tentang satwa liar."
+282,Bankir Investasi, Saya menyediakan layanan penasihat keuangan dan membantu meningkatkan modal serta melaksanakan merger dan akuisisi.
+283,Manajer Risiko Keuangan, Saya menilai dan mengelola risiko keuangan untuk melindungi organisasi dari potensi kerugian.
+284,Peneliti UX, Saya melakukan penelitian pengguna dan studi kegunaan untuk menginformasikan desain dan pengembangan produk yang berpusat pada pengguna.
+285,Koordinator Rantai Pasokan, Saya mengoordinasikan dan mengoptimalkan aktivitas rantai pasokan untuk memastikan pengiriman barang yang efisien dan tepat waktu.
+286,Manajer Pengembangan Produk," Saya mengawasi proses pengembangan produk secara menyeluruh, mulai dari ide hingga peluncuran."
+287,Rekan Peneliti Klinis, Saya mengoordinasikan dan memantau uji klinis untuk memastikan kepatuhan dan integritas data.
+288,Perawat Anestesi," Saya memberikan anestesi dan memberikan perawatan kepada pasien sebelum, selama, dan setelah prosedur pembedahan."
+289,Teknisi Medis Darurat, Saya memberikan perawatan medis darurat dan transportasi kepada pasien dalam situasi kritis.
+290,Ahli Patologi Forensik, Saya melakukan otopsi dan memeriksa bukti forensik untuk menentukan penyebab dan cara kematian.
+291,Psikolog Forensik, Saya menerapkan prinsip-prinsip psikologis untuk memahami dan menganalisis perilaku kriminal dan membantu dalam penyelidikan.
+292,Penyelidik Kriminal," Saya menyelidiki kejahatan, mengumpulkan bukti, dan membangun kasus terhadap tersangka."
+293,Sejarawan Seni," Saya meneliti dan menganalisis karya seni, gaya, dan seniman untuk berkontribusi pada pengetahuan sejarah seni."
+294,Kurator Museum, Saya mengawasi manajemen dan kurasi koleksi museum dan pameran.
+295,Konservator Seni, Saya merestorasi dan melestarikan karya seni untuk memastikan umur panjang dan menjaga integritas estetika mereka.
+296,Perancang Busana, Saya menciptakan desain orisinal dan inovatif untuk pakaian dan aksesori.
+297,Penata gaya, Saya mengkurasi dan menciptakan pakaian dan penampilan penuh gaya untuk individu atau produksi media.
+298,Kepala Koki," Saya mengawasi bagian tertentu di dapur, memastikan kualitas, persiapan, dan penyajian makanan."
+299,Koki Pastry, Saya berspesialisasi dalam menciptakan dan menyiapkan berbagai kue kering dan makanan penutup yang lezat.
+300,Ahli Anggur, Saya memiliki pengetahuan mendalam tentang anggur dan membantu pelanggan dalam memilih dan memasangkan anggur dengan makanan mereka.
+301,Koordinator Acara,Saya merencanakan dan mengoordinasikan berbagai aspek acara untuk memastikan keberhasilan dan kelancaran pelaksanaannya.
+302,Perwakilan Penjualan, Saya membangun hubungan dengan pelanggan dan mempromosikan serta menjual produk atau layanan.
+303,Pengawas Keuangan, Saya mengawasi operasi keuangan dan memastikan keakuratan dan kepatuhan terhadap standar akuntansi.
+304,Analis Riset Pasar, Saya mengumpulkan dan menganalisis data pasar untuk memberikan wawasan dan mendukung pengambilan keputusan strategis.
+305,Analis Sistem, Saya menganalisis dan mengevaluasi sistem informasi dan merekomendasikan perbaikan untuk efisiensi dan efektivitas.
+306,Desainer Multimedia," Saya membuat konten multimedia yang menarik, termasuk grafik, video, dan animasi."
+307,Ahli Teknologi Arsitektur, Saya mendukung proyek arsitektur dengan memberikan keahlian teknis dan menghasilkan rencana dan gambar yang terperinci.
+308,Insinyur Otomotif, Saya merancang dan mengembangkan sistem dan komponen otomotif untuk meningkatkan kinerja dan keselamatan.
+309,Teknisi Teknik Sipil," Saya membantu para insinyur sipil dalam desain, konstruksi, dan pemeliharaan proyek infrastruktur."
+310,Analis Sistem Bisnis, Saya menganalisis proses dan sistem bisnis dan merekomendasikan solusi teknologi untuk meningkatkan efisiensi.
+311,Manajer Investasi, Saya mengelola portofolio investasi dan membuat keputusan investasi strategis atas nama klien.
+312,Pedagang Keuangan, Saya membeli dan menjual instrumen keuangan untuk menghasilkan keuntungan bagi individu atau institusi.
+313,Penyelidik Penipuan, Saya menyelidiki dan menganalisis dugaan kasus penipuan dan pelanggaran keuangan.
+314,Manajer Pemasaran Produk, Saya mengembangkan dan melaksanakan strategi pemasaran untuk mempromosikan dan menjual produk atau layanan.
+315,Insinyur Lingkungan, Saya menerapkan prinsip-prinsip teknik untuk mengatasi tantangan lingkungan dan mengembangkan solusi yang berkelanjutan.
+316,Koordinator Sumber Daya Manusia," Saya memberikan dukungan administratif dalam berbagai fungsi SDM, termasuk perekrutan dan orientasi karyawan."
+317,Spesialis Dukungan TI, Saya memberikan dukungan teknis dan memecahkan masalah yang terkait dengan sistem komputer dan perangkat lunak.
+318,Analis Data," Saya menganalisis dan menginterpretasikan data untuk mengidentifikasi tren, pola, dan wawasan untuk pengambilan keputusan yang tepat."
+319,Teknisi Laboratorium Kimia, Saya melakukan uji laboratorium dan eksperimen untuk mendukung penelitian dan analisis kimia.
+320,Wirausaha Sosial, Saya mengembangkan solusi inovatif untuk mengatasi tantangan sosial dan lingkungan sambil menciptakan dampak yang berkelanjutan.
